@@ -26,4 +26,4 @@
 
 ## 📫 Contact
 
-[LinkedIn](https://linkedin.com/in/denizomerf) · [Portfolio](https://dkrwm089foobe.cloudfront.net/) · [Email](mailto:denizomerf@gmail.com)
+[LinkedIn](https://linkedin.com/in/omerfarukdeniz) · [Portfolio](https://dkrwm089foobe.cloudfront.net/) · [Email](mailto:denizomerf@gmail.com)
