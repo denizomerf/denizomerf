@@ -2,7 +2,7 @@
 
 **DevOps / Cloud Engineer** building automated, observable infrastructure on AWS and Kubernetes.
 
-- 🛠️ Day to day: Terraform, Kubernetes (EKS), Helm, Docker, CI/CD (GitHub Actions, GitLab CI, Jenkins)
+- 🛠️ Day to day: Terraform, Kubernetes (EKS), Helm, Docker, CI/CD (GitHub Actions, GitLab CI)
 - ☸️ Focus: Kubernetes cluster operations, security hardening and keyless (OIDC) CI/CD on AWS
 - 🇹🇷 Based in Türkiye · open to DevOps / Cloud / Platform Engineering roles
 
@@ -13,7 +13,7 @@
 | [**InsightPoll** – AWS EKS DevOps project](https://github.com/denizomerf/aws-eks-devops-project) | End-to-end microservices platform: IaC, push-to-deploy CI/CD, serverless voting API, monitoring and logging | Terraform · EKS · Helm · GitLab CI · Lambda · DynamoDB · RDS · Prometheus · Grafana · Fluent Bit |
 | [**Titan** – Highly available app on EKS](https://github.com/denizomerf/titan-project) | Multi-AZ VPC, EKS and RDS provisioned with Terraform, image pipeline to ECR via GitHub Actions | Terraform · EKS · ECR · RDS · GitHub Actions · Flask |
 | [**Portfolio on AWS**](https://github.com/denizomerf/my-portfolio) | Private S3 origin behind CloudFront (OAC), optional WAF, keyless OIDC deploys from GitHub Actions | Terraform · CloudFront · S3 · IAM OIDC · GitHub Actions |
-| [**Node + Postgres CI**](https://github.com/denizomerf/node_docker_project) | Express API with Docker Compose and a Jenkins test-and-build pipeline | Docker · Compose · Jenkins · Node.js |
+| [**Kubernetes Admin Lab**](https://github.com/denizomerf/cka-lab) | Production-style manifests (RBAC, NetworkPolicies, Gateway API, storage), troubleshooting and upgrade runbooks, etcd backup automation, validated in CI | Kubernetes · kubeadm · kubeconform · GitHub Actions |
 
 ## 🧰 Tech stack
 
