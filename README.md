@@ -1,29 +1,17 @@
-# Hi, I'm Ömer Faruk Deniz 👋
+## Ömer Faruk Deniz
 
-**DevOps / Cloud Engineer** building automated, observable infrastructure on AWS and Kubernetes.
+Cloud / DevOps engineer. I mostly work with AWS, Terraform and Kubernetes, and like building things end to end, from the VPC up to the CI/CD pipeline.
 
-- 🛠️ Day to day: Terraform, Kubernetes (EKS), Helm, Docker, CI/CD (GitHub Actions, GitLab CI)
-- ☸️ Focus: Kubernetes cluster operations, security hardening and keyless (OIDC) CI/CD on AWS
-- 🇹🇷 Based in Türkiye · open to DevOps / Cloud / Platform Engineering roles
+### Projects
 
-## 🚀 Featured projects
+**[InsightPoll](https://github.com/denizomerf/aws-eks-devops-project)**: polling app on AWS. Terraform for VPC, EKS, RDS, Lambda, API Gateway, DynamoDB and CloudFront + WAF; Flask API on EKS deployed with Helm from GitLab CI; Fluent Bit logging to CloudWatch.
 
-| Project | What it shows | Stack |
-|---|---|---|
-| [**InsightPoll** – AWS EKS DevOps project](https://github.com/denizomerf/aws-eks-devops-project) | End-to-end microservices platform: IaC, push-to-deploy CI/CD, serverless voting API, monitoring and logging | Terraform · EKS · Helm · GitLab CI · Lambda · DynamoDB · RDS · Prometheus · Grafana · Fluent Bit |
-| [**Titan** – Highly available app on EKS](https://github.com/denizomerf/titan-project) | Multi-AZ VPC, EKS and RDS provisioned with Terraform, image pipeline to ECR via GitHub Actions | Terraform · EKS · ECR · RDS · GitHub Actions · Flask |
-| [**Portfolio on AWS**](https://github.com/denizomerf/my-portfolio) | Private S3 origin behind CloudFront (OAC), optional WAF, keyless OIDC deploys from GitHub Actions | Terraform · CloudFront · S3 · IAM OIDC · GitHub Actions |
-| [**Kubernetes Admin Lab**](https://github.com/denizomerf/cka-lab) | Production-style manifests (RBAC, NetworkPolicies, Gateway API, storage), troubleshooting and upgrade runbooks, etcd backup automation, validated in CI | Kubernetes · kubeadm · kubeconform · GitHub Actions |
+**[Titan](https://github.com/denizomerf/titan-project)**: Flask API on EKS across two AZs with Multi-AZ RDS. GitHub Actions builds and deploys it using an OIDC role, so no AWS keys are stored anywhere.
 
-## 🧰 Tech stack
+### Tools
 
-- **Cloud:** AWS (EKS, EC2, VPC, RDS, DynamoDB, Lambda, API Gateway, S3, CloudFront, WAF, IAM, Secrets Manager)
-- **IaC & Config:** Terraform, Helm
-- **Containers:** Docker, Kubernetes
-- **CI/CD:** GitHub Actions, GitLab CI, Jenkins
-- **Observability:** Prometheus, Grafana, CloudWatch, Fluent Bit
-- **Languages:** Python (Flask), Node.js, Bash
+AWS (EKS, VPC, RDS, Lambda, API Gateway, DynamoDB, S3, CloudFront, IAM) · Terraform · Kubernetes · Helm · Docker · GitHub Actions · GitLab CI · Jenkins · Prometheus · Grafana · Python · Bash
 
-## 📫 Contact
+### Contact
 
-[LinkedIn](https://linkedin.com/in/omerfarukdeniz) · [Portfolio](https://dkrwm089foobe.cloudfront.net/) · [Email](mailto:denizomerf@gmail.com)
+[LinkedIn](https://linkedin.com/in/omerfarukdeniz) · [denizomerf@gmail.com](mailto:denizomerf@gmail.com)
